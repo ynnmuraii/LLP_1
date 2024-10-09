@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="frequency.c" />
-    <ClCompile Include="frequency_easy.c" />
+    <ClCompile Include="shaker.c" />
+    <ClCompile Include="shaker_easy.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="lab_1.asm" />

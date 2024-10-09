@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="frequency.c">
+    <ClCompile Include="shaker.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="frequency_easy.c">
+    <ClCompile Include="shaker_easy.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
